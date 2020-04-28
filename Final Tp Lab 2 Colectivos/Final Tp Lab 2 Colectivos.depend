@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1481633810 source:c:\users\carlos\desktop\final tp lab 2 colectivos\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	"headers/funciones.h"
+	"headers/clases.h"
+	"headers/configuracion.h"
+	"headers/micros.h"
+	"headers/choferes.h"
+	"headers/destinos.h"
+	"headers/viajes.h"
+	"headers/usuarios.h"
+	"headers/log.h"
+	"headers/boletos.h"
+	"headers/reportes.h"
+
+1481656174 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\clases.h
+
+1481633809 source:c:\users\javier\desktop\final tp lab 2 colectivos\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	"headers/funciones.h"
+	"headers/clases.h"
+	"headers/configuracion.h"
+	"headers/micros.h"
+	"headers/choferes.h"
+	"headers/destinos.h"
+	"headers/viajes.h"
+	"headers/usuarios.h"
+	"headers/log.h"
+	"headers/boletos.h"
+	"headers/reportes.h"
+
+1481656172 c:\users\javier\desktop\final tp lab 2 colectivos\headers\clases.h
+
+1481656678 c:\users\javier\desktop\final tp lab 2 colectivos\headers\funciones.h
+	<windows.h>
+
+1481598342 c:\users\javier\desktop\final tp lab 2 colectivos\headers\micros.h
+
+1479382254 source:i:\final tp lab 2 colectivos\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	"headers/funciones.h"
+	"headers/clases.h"
+	"headers/configuracion.h"
+	"headers/micros.h"
+	"headers/choferes.h"
+	"headers/viajes.h"
+	"headers/usuarios.h"
+	"headers/log.h"
+	"headers/boletos.h"
+	"headers/reportes.h"
+
+1479390664 i:\final tp lab 2 colectivos\headers\funciones.h
+	<windows.h>
+
+1479387858 i:\final tp lab 2 colectivos\headers\clases.h
+
+1479324618 i:\final tp lab 2 colectivos\headers\micros.h
+
+1479382254 source:c:\users\administrador\desktop\final tp lab 2 colectivos\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	"headers/funciones.h"
+	"headers/clases.h"
+	"headers/configuracion.h"
+	"headers/micros.h"
+	"headers/choferes.h"
+	"headers/viajes.h"
+	"headers/usuarios.h"
+	"headers/log.h"
+	"headers/boletos.h"
+	"headers/reportes.h"
+
+1480597523 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\configuracion.h
+
+1479390664 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\funciones.h
+	<windows.h>
+
+1479387858 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\clases.h
+
+1479324618 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\micros.h
+
+1478892338 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\choferes.h
+
+1479382530 i:\final tp lab 2 colectivos\headers\configuracion.h
+
+1478892338 i:\final tp lab 2 colectivos\headers\choferes.h
+
+1480597524 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\configuracion.h
+
+1481656680 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\funciones.h
+	<windows.h>
+
+1481598344 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\micros.h
+
+1478892338 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\choferes.h
+
+1481633084 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\viajes.h
+
+1480460108 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\viajes.h
+
+1479382660 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\usuarios.h
+
+1480460108 i:\final tp lab 2 colectivos\headers\viajes.h
+
+1479382660 i:\final tp lab 2 colectivos\headers\usuarios.h
+
+1479382660 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\usuarios.h
+
+1478845124 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\log.h
+
+1480597523 c:\users\javier\desktop\final tp lab 2 colectivos\headers\configuracion.h
+
+1478892338 c:\users\javier\desktop\final tp lab 2 colectivos\headers\choferes.h
+
+1481633082 c:\users\javier\desktop\final tp lab 2 colectivos\headers\viajes.h
+
+1479382660 c:\users\javier\desktop\final tp lab 2 colectivos\headers\usuarios.h
+
+1478845124 c:\users\javier\desktop\final tp lab 2 colectivos\headers\log.h
+
+1479382254 source:d:\final tp lab 2 colectivos\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	<stdio.h>
+	"headers/funciones.h"
+	"headers/clases.h"
+	"headers/configuracion.h"
+	"headers/micros.h"
+	"headers/choferes.h"
+	"headers/viajes.h"
+	"headers/usuarios.h"
+	"headers/log.h"
+	"headers/boletos.h"
+	"headers/reportes.h"
+
+1480597523 d:\final tp lab 2 colectivos\headers\configuracion.h
+
+1479390664 d:\final tp lab 2 colectivos\headers\funciones.h
+	<windows.h>
+
+1479387858 d:\final tp lab 2 colectivos\headers\clases.h
+
+1479324618 d:\final tp lab 2 colectivos\headers\micros.h
+
+1478892338 d:\final tp lab 2 colectivos\headers\choferes.h
+
+1480460108 d:\final tp lab 2 colectivos\headers\viajes.h
+
+1479382660 d:\final tp lab 2 colectivos\headers\usuarios.h
+
+1478845124 d:\final tp lab 2 colectivos\headers\log.h
+
+1481598589 c:\users\javier\desktop\final tp lab 2 colectivos\headers\boletos.h
+
+1478845124 i:\final tp lab 2 colectivos\headers\log.h
+
+1479391412 i:\final tp lab 2 colectivos\headers\boletos.h
+
+1480594195 c:\users\javier\desktop\final tp lab 2 colectivos\headers\reportes.h
+
+1481598590 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\boletos.h
+
+1480594196 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\reportes.h
+
+1479343060 i:\final tp lab 2 colectivos\headers\reportes.h
+
+1478845124 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\log.h
+
+1480592492 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\boletos.h
+
+1480594195 c:\users\administrador\desktop\final tp lab 2 colectivos\headers\reportes.h
+
+1480592492 d:\final tp lab 2 colectivos\headers\boletos.h
+
+1480594195 d:\final tp lab 2 colectivos\headers\reportes.h
+
+1481656570 c:\users\javier\desktop\final tp lab 2 colectivos\headers\destinos.h
+
+1481656572 c:\users\carlos\desktop\final tp lab 2 colectivos\headers\destinos.h
+

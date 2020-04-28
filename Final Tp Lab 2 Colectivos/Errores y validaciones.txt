@@ -1,0 +1,63 @@
+1)Ver que valide que el id de destino sea unico para cada viaje.
+
+
+ID	DESTINO
+1	SALTA
+2	MAR DEL PLATA
+
+
+
+
+(Archivo de destino (ABML)).
+
+(O SE AL ID DE DESTINO O EL NOBRE DE DESTINO TIENEN QUE SER UNICOS).
+
+(el problema es que me deja cargar un ID de destino con distinto nombre)
+
+2) Ver que la fecha de viaje sea posterior a la del sistema(que no se ingrese un viaje que ya se deberia haber sido realizado).
+
+
+Importante:
+
+13/12/2016
+Ver Que los Destinos tengan ABML.
+Colocar en el menu Configuracion una opcion para dar de alta a los destinos.
+
+
+Validaciones:
+
+Micros:
+La patente no puede repetirse en el archivo de colectivos.
+El año de fabricación debe ser un número mayor o igual a 1990.
+La cantidad de asientos debe ser un número positivo.
+
+Choferes:
+El legajo no puede repetirse en el archivo de choferes y debe ser un número positivo.
+
+Viajes:
+El IDViaje no puede repetirse en el archivo de viajes y debe ser un número positivo.
+
+El IDDestino del viaje debe existir en el archivo de destinos.
+
+La fecha de viaje debe ser una fecha válida y posterior a la fecha del sistema.
+
+El costo del viaje debe ser un número positivo.
+
+La patente del viaje debe existir en el archivo de colectivos y no estar dado de baja.
+
+El chofer del viaje debe existir en el archivo de choferes y no estar dado de baja
+
+Destinos:
+El IDDestino no puede repetirse en el archivo de destinos y debe ser un número positivo.
+
+El IDDestino debe ser un número entero entre 1 y 500.
+
+Pasajes:
+El IDTicket debe ser un valor autonumérico (que arranca desde 1 sumando de a 1).
+
+El IDViaje debe existir en el archivo de viajes y debe pertenecer a un viaje vigente (es decir, que
+su fecha sea posterior a la fecha del sistema).
+
+La cantidad de pasajes debe ser un número entero positivo que no supere la cantidad de
+asientos del colectivo que realiza el viaje.
+
