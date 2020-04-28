@@ -31,10 +31,7 @@ void OcultarCursor(){
     SetConsoleCursorInfo(hCon, &cci);
 }
 
-/*void limites(){
-recuadro(1, 1, 77, 33);
-}
-*/
+
 void menuListarMicros(){
     cout << "-------------------------------------------------------------------------" << endl;
     cout << setiosflags(ios::left);
